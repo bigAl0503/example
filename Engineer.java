@@ -21,6 +21,7 @@ public class Engineer {
 
     public String getPosition() {
         return position;
+        // Oleksii did this changes
     }
 
     public void setPosition(String position) {
